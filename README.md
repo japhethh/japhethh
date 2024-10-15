@@ -1,7 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/1e/0f/25/1e0f25d860ae955bc05004aaa232c3e4.gif)
+[![MasterHead](https://media1.tenor.com/m/et8C-aeLKV0AAAAC/jeanne-vanitas-no-carte.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Adrey Locaylocay</h1>
 <h3 align="center">a full-stack developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. I enjoy building efficient, scalable applications and styling them with Tailwind CSS.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/9TLY.gif">
+<img align="right" alt="Coding" width="400" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc">
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japhethh&label=Profile%20views&color=0e75b6&style=flat" alt="japhethh" /> </p>
