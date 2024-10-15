@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/th/id/OGC.b61e032097c9394cfba69b6b9f76e31f?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fZ37lzvgYxKctG%2fgiphy.gif&ehk=GmeAfUazDKS0%2fy3zQxbVEGy7EMFWzQQ5%2fQ%2fZPNQjZfg%3d)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/1e/0f/25/1e0f25d860ae955bc05004aaa232c3e4.gif)
 <h1 align="center">Hi 👋, I'm Adrey Locaylocay</h1>
 <h3 align="center">a full-stack developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. I enjoy building efficient, scalable applications and styling them with Tailwind CSS.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/9TLY.gif">
