@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/zvXkZIyJh2cAAAAC/anime-sad.gif" alt="GIF Banner" width="100%" height="50%" />
+  <img src="https://media1.tenor.com/m/Sr9vaB0wh6UAAAAd/cyberethik-ysak.gif" alt="GIF Banner" width="100%" height="50%" />
 </div>
 <h1 align="center">Hi 👋, I'm Adrey Locaylocay</h1>
 <h3 align="center">A full-stack developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. I enjoy building efficient, scalable applications and styling them with Tailwind CSS.</h3>
