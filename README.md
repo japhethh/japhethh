@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://th.bing.com/th/id/OIP.Jq1yOR_vQmfXnVL5kUe42AHaE8?rs=1&pid=ImgDetMain" alt="GIF Banner" width="100%" height="50%" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47361df0-7a0b-4149-92d6-dd127f25a9f8/dd3ndxp-ad830d7f-b2cd-456d-b3b1-e9a494a19193.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3MzYxZGYwLTdhMGItNDE0OS05MmQ2LWRkMTI3ZjI1YTlmOFwvZGQzbmR4cC1hZDgzMGQ3Zi1iMmNkLTQ1NmQtYjNiMS1lOWE0OTRhMTkxOTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nflpFaOkmm1YhLyFebGENQVVTieDnRMcByU4nadMnmo" alt="GIF Banner" width="100%" height="50%" />
 </div>
 <h1 align="center">Hi 👋, I'm Adrey Locaylocay</h1>
 <h3 align="center">A full-stack developer specializing in modern web technologies like React, Node.js, Express.js, and MongoDB. I enjoy building efficient, scalable applications and styling them with Tailwind CSS.</h3>
