@@ -112,6 +112,7 @@
 
 <br clear="both">
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/japhethh/japhethh/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
