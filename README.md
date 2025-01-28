@@ -63,8 +63,6 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
   <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
   <img width="17" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
@@ -94,6 +92,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
 ###
@@ -116,6 +116,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/japhethh/japhethh/output/snake.svg" alt="Snake animation" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/japhethh/japhethh/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/japhethh/japhethh/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/japhethh/japhethh/output/snake.svg" />
+</picture>
 ###
