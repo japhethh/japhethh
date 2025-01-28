@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="../Logo.png"  />
+  <img height="200" width="100%" src="./Logo.png"  />
 </div>
 
 ###
@@ -116,8 +116,9 @@
 
 ###
 
-
-<picture>
+<div align="center">
+<picture >
 <img src="https://raw.githubusercontent.com/japhethh/japhethh/output/snake.svg" alt="Snake animation" />
 </picture>
-###
+  </div> 
+
